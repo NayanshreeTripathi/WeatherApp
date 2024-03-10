@@ -1,0 +1,12 @@
+/* body{
+    background-color: black;
+    color: white;
+} */
+
+.bg-black{
+    background-color: black;
+}
+
+.borderN{
+    border-color: black;
+}
